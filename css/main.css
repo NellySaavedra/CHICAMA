@@ -1,0 +1,60 @@
+* {
+	font-family: Arial;
+}
+#background {
+	width: 100%;
+	position: absolute; 
+	z-index: -1;
+   
+}
+.strecht {
+	width: 100%
+}
+/*barra1*/
+.Barra1 {
+	float: right;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+/*Armado de botón*/
+.Boton {
+	height: 50px;
+	width: 140px;
+	padding-top: 16px;
+	text-align: center;
+	background-color: orange;
+}
+.ImgLogo {
+	height: 50px;
+	width: 50%;
+}
+/*Arreglo de Section*/
+.ImgMenu {
+	width: 100%;
+	margin-top: 837px;
+}
+p {
+	border-bottom: 2px solid black;
+	margin-bottom: 50px;
+}
+/*Arreglo footer*/
+.BackFontFoot {
+	background-color: #2B3140;	
+}
+li {
+	margin-top: 35px;
+	display: inline-block;
+}
+.PosicionLI{
+	padding-bottom: 40px;
+	color: white;
+}
+.HrVertical {
+	height: 10px;
+	width: 1px;
+	margin-left: 6px;
+	margin-right: 6px;
+	display: inline;
+}
